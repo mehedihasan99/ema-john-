@@ -1,0 +1,18 @@
+.header {
+    height: 80px;
+    background: #1C2B35;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 112px;
+}
+
+.nav-items a {
+    text-decoration: none;
+    margin-left: 32px;
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 20px;
+    letter-spacing: 0.005em;
+}

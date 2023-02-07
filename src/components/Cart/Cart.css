@@ -1,0 +1,21 @@
+.cart {
+    margin-left: 13px;
+    margin-top: 28px;
+}
+
+.order-summary {
+    text-align: center;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 30px;
+
+}
+
+.cart-item {
+    font-style: normal;
+    margin-top: 25px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+}
